@@ -13,4 +13,5 @@ I'm feeling like a **MASTER** Coder
 ## Making and Pushing Local Changes
 
 I hope I am doing all this correctly 
+
 "Here is some new text I am adding from the terminal to update the READ file." 
