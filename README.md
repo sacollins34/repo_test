@@ -15,3 +15,7 @@ I'm feeling like a **MASTER** Coder
 I hope I am doing all this correctly 
 
 "Here is some new text I am adding from the terminal to update the READ file." 
+
+## Pulling Changes from GitHub
+
+What is the most appropriate way to make the edits?
